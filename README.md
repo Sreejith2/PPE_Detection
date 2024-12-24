@@ -11,10 +11,10 @@ This is a backend service that uses a YOLO-based object detection model to ident
 ### Example Images
 
 - **Without PPE**: An example showing worker without the required PPE.
-  ![Without PPE](assets/images/Without_PPE.jpg)
+  ![Without PPE](Without_PPE.jpg)
 
 - **With PPE**: An example showing worker with the required PPE.
-  ![With PPE](assets/images/WITH_PPE.jpg)
+  ![With PPE](WITH_PPE.jpg)
 
 ## Endpoints
 
