@@ -7,6 +7,14 @@ This is a backend service that uses a YOLO-based object detection model to ident
 - **PPE Detection:** Detects and classifies PPE such as hardhats, masks, and safety vests in images.
 - **Industry-Specific Safety Information:** Provides safety messages based on the industry (e.g., Construction, Manufacturing) and missing PPE.
 - **Image Upload and Processing:** Users can upload images, which are processed for PPE detection.
+  
+### Example Images
+
+- **Without PPE**: An example showing worker without the required PPE.
+  ![Without PPE](assets/images/Without_PPE.jpg)
+
+- **With PPE**: An example showing worker with the required PPE.
+  ![With PPE](assets/images/WITH_PPE.jpg)
 
 ## Endpoints
 
