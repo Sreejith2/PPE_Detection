@@ -47,7 +47,7 @@ Allows users to upload an image for PPE detection.
 
 **Parameters:**  
 - **file (file):** The image file containing workers.  
-- **industry (form data):** The industry for which PPE requirements and safety warnings are calculated.  
+- **industry (form data):** The industry for which PPE requirements and safety warnings are calculated  
 
 **Response:**  
 Returns a JSON with:  
