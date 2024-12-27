@@ -1,6 +1,6 @@
 # PPE Detection System
 
-This is a backend service that uses a YOLO-based object detection model to identify Personal Protective Equipment (PPE) in images. The service checks if workers are wearing the required PPE based on their industry and provides safety warnings for any missing equipment.
+This is a web-based Personal Protective Equipment (PPE) detection system to enhance workplace safety by identifying compliance with safety standards, such as wearing helmets and vests. The system uses computer vision for detection and is deployed as a web application for ease of access.
 
 ## Key Features
 
