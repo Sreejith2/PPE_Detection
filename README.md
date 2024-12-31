@@ -1,4 +1,4 @@
-# PPE Detection System 👷‍♂️  
+# PPE Detection System👷‍♂️  
 
 This is a web-based **Personal Protective Equipment (PPE) Detection System** designed to enhance workplace safety by identifying compliance with safety standards. The system detects the presence or absence of key PPE such as helmets, masks, and safety vests, using the state-of-the-art **YOLOv8** object detection model. It is implemented as a web application using **React** for the frontend and **Flask** for the backend.  
 
